@@ -1,2 +1,3 @@
 # Game_TICTACTOE
-Using html, css, and javascript
+Using html, css, and javascript.
+view: https://mansipatel-tictactoegame.netlify.app/
